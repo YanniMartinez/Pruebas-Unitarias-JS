@@ -1,0 +1,14 @@
+{
+  "name": "pruebasunitariasjest",
+  "version": "1.0.0",
+  "description": "Pruebas Unitarias con Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Yanni Martinez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.5"
+  }
+}
